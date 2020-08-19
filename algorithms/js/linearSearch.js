@@ -1,0 +1,6 @@
+/**
+ * linearSearch.js
+ *
+ *
+ */
+

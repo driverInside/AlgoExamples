@@ -1,0 +1,28 @@
+{
+  "name": "AlgoExamples",
+  "version": "1.0.0",
+  "description": "Algorithms examples with JS and Python",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/driverInside/AlgoExamples.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/driverInside/AlgoExamples/issues"
+  },
+  "homepage": "https://github.com/driverInside/AlgoExamples#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^26.4.0",
+    "standard": "^14.3.4"
+  }
+}
